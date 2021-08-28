@@ -8,4 +8,4 @@ These are moderation notes for the Pryaxis discord server.
 |shminkie#0441 and shminkie#1485 (710068162736947222, 238292982103670785)|0|0|This user has an alt account: shminkie#1485 (710068162736947222, 238292982103670785). There are no notes for this user other than the fact that we have mistakenly banned them twice.|
 |サタン#2901 (684919398594904065)|0|0|We are certain this user is scamming people. Permanently banned.|
 |Oz#5581 (521641991998799872)|0|0|Silenced. Ignored TOS warning re: giving instructions on how to crash clients.|
-|Laha#3845 (722783985461231676)|0|0|Silenced. Ignored TOS warning re: asking how to crash clients, then giving example of how to crash clients.|
+|Laha#3845 (722783985461231676)|0|0|Silenced. Ignored TOS warning re: asking how to crash clients, then giving example of how to crash clients. Left the server to evade silence role.|
