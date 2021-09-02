@@ -9,3 +9,4 @@ These are moderation notes for the Pryaxis discord server.
 |サタン#2901 (684919398594904065)|0|0|0|We are certain this user is scamming people. Permanently banned.|
 |Oz#5581 (521641991998799872)|0|0|1|Silenced. Ignored ToS warning re: giving instructions on how to crash clients.|
 |Laha#3845 (722783985461231676)|0|0|2|Silenced. Ignored ToS warning re: asking how to crash clients, then giving example of how to crash clients. Left the server to evade silence role.|
+|cenekp#6996 (?)|0|0|0|Posted a phishing link. Permabanned.|
