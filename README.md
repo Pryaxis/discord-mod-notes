@@ -10,3 +10,5 @@ These are moderation notes for the Pryaxis discord server.
 |Oz#5581 (521641991998799872)|0|0|1|Silenced. Ignored ToS warning re: giving instructions on how to crash clients.|
 |Laha#3845 (722783985461231676)|0|0|2|Silenced. Ignored ToS warning re: asking how to crash clients, then giving example of how to crash clients. Left the server to evade silence role.|
 |cenekp#6996 (?)|0|0|0|Posted a phishing link. Permabanned.|
+|BenEmerald#4415 (581214608883187752)|0|0|0|Permanently banned due to ToS violations reported to moderation team, specifically violation of "defame, libel, ridicule, mock, stalk, threaten, harass, intimidate or abuse anyone;" and "engage in conduct that is fraudulent or illegal or otherwise harmful to Discord or any other user;" and "defame, libel, ridicule, mock, stalk, threaten, harass, intimidate or abuse anyone;"|
+|Terrabade#6539 (305262294835658752)|0|1 (pending)|0|Reported for violating uncomfortable rule, however, they left the server prior to any moderation action taking place. Therefore, they are to be silenced on sight and given a warning related to using others for the purposes of being self-congratulatory and unconstructive.|
