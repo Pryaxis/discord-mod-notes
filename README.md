@@ -1,5 +1,5 @@
 # discord-mod-notes
-These are moderation notes for the Pryaxis discord server.
+These are moderation notes for the Pryaxis discord server. If you are on this list and need to appeal your ban, please email `argo@hey.com` with the details that you believe are pertinent.
 
 |Discord identity|Annoying tests passed|Uncomfortable tests passed|Other warnings|Notes/Actions performed|
 |---|--|--|--|----------------|
