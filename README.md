@@ -18,4 +18,5 @@ These are moderation notes for the Pryaxis discord server. If you are on this li
 ### comdar#1950 (566930758116179969)
 - banned by Chris from Discord on 2020-10-07
 - reason: trolling
-- additional notes: attempted to spam ping @everyone at least 21 times, made toxic posts in tshock/discussions, inappropriate profile image on discord, possibly also the same person who continuously made inflammatory posts regarding tshock and/or its contributors. 
+- additional notes: attempted to spam ping @everyone at least 21 times, made toxic posts in tshock/discussions, using inappropriate profile image on discord, the same person who continuously made inflammatory posts regarding tshock and its contributors. 
+- previous GitHub account: "Grif946" (now deleted so it shows up as ghost)
