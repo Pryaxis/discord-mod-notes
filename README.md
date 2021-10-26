@@ -14,3 +14,8 @@ These are moderation notes for the Pryaxis discord server. If you are on this li
 |Terrabade#6539 (305262294835658752)|0|1 (pending)|0|Reported for violating uncomfortable rule, however, they left the server prior to any moderation action taking place. Therefore, they are to be silenced on sight and given a warning related to using others for the purposes of being self-congratulatory and unconstructive. Escalated to ban after they joined the server, chatted away, and left. They can appeal the original issue via argo@hey.com|
 |Clawboss#0001 (746929490822692896)|2|0|0|Muted for pinging the entire moderation team to ask a question when the guidelines clearly say that you should not be attention seeking. Banned for evading the silence role without even acknowleding it by rejoining the server to clear the role and then proceeding to ask for direct links to random things.|
 |Laha#3845 (722783985461231676)|0|1|0|Warned about being toxic after commenting on someone's English-as-a-second-language skills.|
+
+### comdar#1950 (566930758116179969)
+- banned by Chris from Discord on 2020-10-07
+- reason: trolling
+- additional notes: attempted to spam ping @everyone at least 21 times, made toxic posts in tshock/discussions, inappropriate profile image on discord, possibly also the same person who continuously made inflammatory posts regarding tshock and/or its contributors. 
