@@ -1,8 +1,9 @@
 # discord-mod-notes
 These are moderation notes for the Pryaxis discord server. If you are on this list and need to appeal your ban, please email `argo@hey.com` with the details that you believe are pertinent.
 
-|Discord identity|Annoying tests passed|Uncomfortable tests passed|Other warnings|Notes/Actions performed|
-|---|--|--|--|----------------|
+|Discord identity|Annoying tests passed|Uncomfortable tests passed|Other warnings|Notes/Actions performed|Moderation|
+|---|--|--|--|----------------|---|
+|Ethan#1658|1|1|0|Posted a phishing message in every channel, the message pinged @everyone and had a suspicious link to some fake Discord Nitro giveaway.|All messages deleted, permanently banned by moist
 |Terraria#7922 (757131847993131098)|1|0|0|Temporarily banned for nickname changing abuse after repeatedly being renamed to not have a nickname intentionally designed to appear at the top of the online user list.|
 |♰ Mute ♰#4662 (749553342384046150)|0|0|0|Permanently banned and deleted all messages from 7 days prior after spamming every channel with a phishing link, and also had a user description that said that all women were braindead.|
 |shminkie#0441 and shminkie#1485 (710068162736947222, 238292982103670785)|0|0|0|This user has an alt account: shminkie#1485 (710068162736947222, 238292982103670785). There are no notes for this user other than the fact that we have mistakenly banned them twice.|
