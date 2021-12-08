@@ -17,3 +17,4 @@ These are moderation notes for the Pryaxis discord server. If you are on this li
 |Laha#3845 (722783985461231676)|0|1|0|Warned about being toxic after commenting on someone's English-as-a-second-language skills.|
 |comdar#1950 (566930758116179969)|1|0|0|Trolling: Attempted to spam ping @everyone at least 21 times, made toxic posts in tshock/discussions, using inappropriate profile image on discord, the same person who continuously made inflammatory posts regarding tshock and its contributors. Previously known on GitHub as 'Grif946' which is now deleted. Now, ban revoked, last chance appeal accepted.||
 |𝟣,618033988749894848#4561 (717366122311319552)|0|0|1|Dropped a Terraria 0-day in Discord, warned about Discord ToS.||
+|BRUME#0001 (550963760555360268)|0|0|1|Linked to cheats while asking how to stop said cheats from working. Message deleted. Warned about Discord ToS.||
