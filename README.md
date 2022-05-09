@@ -19,3 +19,6 @@ These are moderation notes for the Pryaxis discord server. If you are on this li
 |𝟣,618033988749894848#4561 (717366122311319552)|0|0|1|Dropped a Terraria 0-day in Discord, warned about Discord ToS.||
 |BRUME#0001 (550963760555360268)|0|0|1|Linked to cheats while asking how to stop said cheats from working. Message deleted. Warned about Discord ToS.||
 |FireyDevelopment#5274 (650166407665025045)|1|0|0|Asked for status of updates twice in 2 minutes, and was subsequently warned about asking for updates. After being warned, deleted messages to make it look less like spam occurred. Then, pinged @hakusaro with a message saying "don't ping me" and then deleted the message. Sent to silence channel.||
+|Xorbak#2679 (415421138345263104)|0|0|0|Banned. Discussing / planning DDoS attempts, botting, hacking||
+|Sxlht#2731 (969594368245780511)|0|0|0|Banned. Discussing / planning DDoS attempts, botting, hacking||
+|Vxlhat#0312 (561090481275142144)|0|0|0|Banned. Discussing / planning DDoS attempts, botting, hacking||
