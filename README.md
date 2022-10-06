@@ -22,3 +22,5 @@ These are moderation notes for the Pryaxis discord server. If you are on this li
 |Xorbak#2679 (415421138345263104)|0|0|0|Banned. Discussing / planning DDoS attempts, botting, hacking||
 |Sxlht#2731 (969594368245780511)|0|0|0|Banned. Discussing / planning DDoS attempts, botting, hacking||
 |Vxlhat#0312 (561090481275142144)|0|0|0|Banned. Discussing / planning DDoS attempts, botting, hacking||
+|Marcus101RR#0623 (226142973413425152) (and all alternate accounts)|0|0|0|Banned, due to the Pryaxis ban policy of applying bans across services. An anonymous discord user writes: "He is the reason this discord server got terminated last time."|
+|OFF#9328 (305318521490112532) (and all alternate accounts)|0|0|0|Paypal fraud / chargeback.|
